@@ -8,8 +8,13 @@ NOTE---->Try this scrapping on your spam or backup linkedin id not on your main 
          SCRAP AND HAVE FUN!!!!!!!!!!!!!!!!
 
          ------------------------------------------------------------------------------------
+
+         
+         
 NOTE---->To get whitelisted by scrapping linkedin account type
          https://www.linkedin.com/robots.txt
+
+         Ensure that u installed all package and chrome web driver before exicuting the program
 
          check this site in this all of the info will be given to scrap it in a proper way without getting blocked or banned
 
